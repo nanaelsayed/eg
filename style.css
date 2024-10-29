@@ -1,0 +1,23 @@
+div {
+  background-color: green;
+}
+#heading{
+  background-color: red;
+  color: white;
+}
+#head{
+  background-color: white;
+  color: red;
+}
+#hello{
+  background-color: blueviolet;
+}
+.table_name{
+  background-color: aqua;
+}
+table th{
+  background-color: coral;
+}
+.name{
+  background-color: brown;
+}
